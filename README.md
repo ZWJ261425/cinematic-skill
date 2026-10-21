@@ -22,7 +22,7 @@ Windows PowerShell：
 git clone https://github.com/ZWJ261425/cinematic-skill.git "$HOME/.codex/skills/cinematic-history-remotion"
 ```
 
-重启 Codex 或开启新会话后，使用 `$cinematic-history-remotion` 调用。仓库地址将在公开发布后生效。
+重启 Codex 或开启新会话后，使用 `$cinematic-history-remotion` 调用。若本机已安装同名 Skill，无需再次克隆。
 
 ### 使用
 
