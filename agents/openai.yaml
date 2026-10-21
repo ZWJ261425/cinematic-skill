@@ -1,0 +1,4 @@
+interface:
+  display_name: "电影感历史短片"
+  short_description: "复用回声的古典绘画、场景呼吸感与运镜，制作有质感的 Remotion 历史短片"
+  default_prompt: "使用 $cinematic-history-remotion，把我给的主题做成回声风格的电影感历史短片，逐场景设计动态、运镜与结尾。"

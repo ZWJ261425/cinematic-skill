@@ -1,0 +1,15 @@
+{
+  "archive": "echo-remotion.zip",
+  "archive_root": "echo-remotion",
+  "sha256": "0d116e664415a78411641ce4beb7e630aab438c0a2732672b2d8de75d73c33ca",
+  "bytes": 39641356,
+  "source": "Sanitized public Echo Remotion reference project",
+  "reference_video": {
+    "seconds": 178,
+    "fps": 30,
+    "frames": 5340,
+    "width": 1920,
+    "height": 1080
+  },
+  "audio": "No music included. The public project renders silently by default."
+}
